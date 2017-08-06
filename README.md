@@ -3,7 +3,7 @@ The Metabolomics Standards Initiative (MSI) guidelines were first published in 2
 
 # Analysis
 
-Analysis files are in the folder [analysis-code](https://github.com/RASpicer/Compliance_MSI_Guidelines/analysis-code). Use [raw git] (https://rawgit.com/) to view HTML output files.
+Analysis files are in the folder [analysis-code](https://github.com/RASpicer/Compliance_MSI_Guidelines/analysis-code). Use [raw git](https://rawgit.com/) to view HTML output files.
 
 All analysis were performed using [R version 3.3.2](https://cran.r-project.org/). 
 
